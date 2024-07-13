@@ -5,6 +5,7 @@ pandas
 numpy
 ensure
 wheel
+setuptools
 
 
 # dev requirements -
