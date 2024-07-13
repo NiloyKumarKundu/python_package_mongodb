@@ -21,7 +21,7 @@ with open('README.md', 'r', encoding='utf-8') as f:
 
 __version__ = "0.0.5"
 REPO_NAME = "python_package_mongodb"
-PKG_NAME= "mongodb_automation"
+PKG_NAME= "db_method_optimize"
 AUTHOR_USER_NAME = "NiloyKumarKundu"
 AUTHOR_EMAIL = "niloykk.connect@gmail.com"
 
