@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 from typing import List
 
 
-# HYPEN_E_DOT = '-e .'
+HYPEN_E_DOT = '-e .'
 
 # def get_requirement(file_path:str) -> List[str]:
 #     requirements = []
@@ -19,7 +19,7 @@ with open('README.md', 'r', encoding='utf-8') as f:
     long_description = f.read()     
 
 
-__version__ = "0.0.4"
+__version__ = "0.0.5"
 REPO_NAME = "python_package_mongodb"
 PKG_NAME= "mongodb_automation"
 AUTHOR_USER_NAME = "NiloyKumarKundu"
